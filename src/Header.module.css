@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+}
+
+.ull{
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: flex;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+
+.ull a {
+    color: rgb(132, 132, 132);
+    text-decoration:none;
+    font-size: .8rem;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-left: 35px;
+    padding-bottom: 0px;
+}
+.ull a:hover {
+    color: rgb(35, 35, 35);
+}
+
+.ulr{
+   display: flex;
+   padding-top: 0px;
+   padding-left: 160px;
+   padding-bottom: 0px;
+}
+
+.ulr li { 
+    font-size: 1rem;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    padding-right: 20px;
+    list-style: none;
+    color: rgb(132, 132, 132);
+}
+
+.navlinks {
+    font-size: 1rem;
+    text-decoration: none;
+    color: rgb(132, 132, 132);
+}
+
+.navbarforms {
+    border: none;
+    color: rgb(132, 132, 132);
+}
+
+.logo {
+    height: 30px;
+    width: 70px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 0px;
+}

@@ -1,0 +1,74 @@
+.body{
+    display: flex;
+}
+
+.baner1{
+    padding-top: 0px;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(255, 200, 0);
+    border-radius: 5%;
+}
+
+.baner1 input{
+    border: none;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(177, 190, 190);
+    border-radius: 8%;
+}
+
+.baner11{
+    padding-top: 100px;
+    padding-left: 70px;
+}
+
+.baner11 button{
+    border: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1rem;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(247, 37, 37);
+}
+
+.baner11 p {
+    padding-left: 110px;
+    font-weight: bold;
+    font-size: 1rem ;
+}
+
+.baner2{
+    background-color: rgb(255, 200, 0);
+    border-radius: 5%;
+    height: 400px;
+    width: 600px;
+    margin-right: 10px;
+    margin-left: 35px;
+}
+
+
+.body2{
+    font-family: alibaba,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,sans-serif;
+    display: flex;
+    padding-left: 0px;
+    padding-right: 200px;
+    direction: rtl;
+}
+
+.body2 div{
+    padding-left: 50px;
+    color: rgb(66, 66, 66);
+}
+
+.textbody2 {
+    font-size: .7rem;
+    color: rgb(132, 132, 132);
+}
+
+.bodyimg {
+    height: 40px ;
+    width:40px ;
+    padding-left: 5px;
+    padding-top: 15px;
+}

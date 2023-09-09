@@ -1,0 +1,88 @@
+.footer {
+    display: flex;
+    direction: rtl;
+    font-family: alibaba,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,sans-serif;
+    padding-right: 200px;
+}
+
+.footer a {
+    font-size: .8rem;
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover{
+    color: rgb(103, 103, 103);
+}
+
+.footer11 {
+    padding-left: 60px;
+}
+
+.footer12 {
+    padding-left: 60px;
+}
+
+.ltrfooter {
+    direction: ltr;
+    padding-right: 70px;
+}
+
+.ltrfooter p {
+    font-size: .8rem;
+}
+
+.footerimg {
+    height: 70px;
+    width: 65px;
+    border-style: groove ;
+    border-radius: 9%;
+    margin-left: 5px; 
+}
+
+.footerlogo {
+    height: 40px ;
+    width: 140px;
+}
+
+.footerul {
+    display: flex;
+    direction: lrt;
+    padding-left: 425px;
+}
+
+.footerul li {
+    padding-left: 25px;
+    list-style: none;
+}
+
+.footerul a {
+    text-decoration: none;
+    font-size: .8rem;
+    font-family: alibaba,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,sans-serif;
+    color: rgb(121, 121, 121);
+}
+
+.footersel {
+   direction: rtl;
+   padding-right: 200px;
+}
+
+.footerp {
+    direction: rtl;
+    font-family: alibaba,system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,sans-serif;
+    color: rgb(121, 121, 121);
+    font-size: .8rem;
+    padding-right: 190px;
+}
+
+.footerendlogo {
+    direction: rtl;
+    padding-right: 850px;
+    
+}
+
+.footerendlogo a {
+    color: rgb(151, 150, 150);
+    padding-top: 0px;
+    padding-left: 10px;
+}
